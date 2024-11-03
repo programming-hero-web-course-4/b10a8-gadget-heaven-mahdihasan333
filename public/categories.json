@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "category": "laptop",
+      "slug": "Laptops"
+    },
+    {
+      "id": 2,
+      "category": "accessories",
+      "slug": "Accessories"
+    },
+    {
+      "id": 3,
+      "category": "phones",
+      "slug": "Phones"
+    },
+    {
+      "id": 4,
+      "category": "chargers",
+      "slug": "Chargers"
+    },
+    {
+      "id": 5,
+      "category": "power-banks",
+      "slug": "Power Banks"
+    },
+    {
+      "id": 6,
+      "category": "smart-watches",
+      "slug": "Smart Watches"
+    }
+  ]
