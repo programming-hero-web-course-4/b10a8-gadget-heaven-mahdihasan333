@@ -4,7 +4,7 @@
     "product_title": "Acer Aspire 5",
     "product_image": "https://i.ibb.co.com/HzphSPZ/acer-aspire-5-price-in-bangladesh.webp",
     "category": "laptop",
-    "price": 549.99,
+    "price": 99,
     "description": "Acer Aspire 5 is a lightweight laptop with a sleek design and powerful performance.",
     "Specification": [
       "Intel Core i5",
@@ -18,44 +18,27 @@
   },
   {
     "product_id": 2,
-    "product_title": "Dell XPS 13",
-    "product_image": "https://i.ibb.co.com/YD5z24C/download.jpg",
-    "category": "laptop",
-    "price": 999.99,
-    "description": "Dell XPS 13 offers high performance in a compact design, perfect for professionals.",
+    "product_title": "Aukey 10000mAh Power Bank with Quick Charge",
+    "product_image": "https://i.ibb.co.com/rvJZLbV/images.jpg",
+    "category": "power-banks",
+    "price": 55,
+    "description": "Compact power bank featuring Quick Charge technology for fast charging of compatible devices.",
     "Specification": [
-      "Intel Core i7",
-      "16GB RAM",
-      "1TB SSD",
-      "13.4 inch 4K Display",
-      "Windows 11"
+      "Capacity: 10,000mAh",
+      "Ports: 1 x USB-A (Quick Charge), 1 x USB-C",
+      "Size: 5.4 x 2.7 x 0.5 inches",
+      "Weight: 7.2 oz"
     ],
     "availability": true,
-    "rating": 4.8
+    "rating": 4.6
   },
+
   {
     "product_id": 3,
-    "product_title": "HP Pavilion x360",
-    "product_image": "https://i.ibb.co.com/JsDRcKY/images.jpg",
-    "category": "laptop",
-    "price": 749.99,
-    "description": "HP Pavilion x360 is a versatile 2-in-1 laptop with a touchscreen display.",
-    "Specification": [
-      "Intel Core i5",
-      "8GB RAM",
-      "256GB SSD",
-      "14 inch Full HD Touchscreen",
-      "Windows 11"
-    ],
-    "availability": false,
-    "rating": 4.3
-  },
-  {
-    "product_id": 4,
     "product_title": "Lenovo ThinkPad X1 Carbon",
     "product_image": "https://i.ibb.co.com/HTHFqNJ/download.jpg",
     "category": "laptop",
-    "price": 1399.99,
+    "price": 66,
     "description": "Lenovo ThinkPad X1 Carbon is designed for business professionals with top-tier performance.",
     "Specification": [
       "Intel Core i7",
@@ -68,11 +51,174 @@
     "rating": 4.7
   },
   {
+    "product_id": 4,
+    "product_title": "Google Pixel 7",
+    "product_image": "https://i.ibb.co.com/kBStjCj/download.jpg",
+    "category": "phones",
+    "price": 59,
+    "description": "The Google Pixel 7 delivers a pure Android experience with outstanding camera features and software support.",
+    "Specification": [
+      "Display: 6.3-inch FHD+ OLED",
+      "Processor: Google Tensor G2",
+      "Battery: 4,355mAh",
+      "Camera: Dual rear (50MP + 12MP), 10.8MP front"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
     "product_id": 5,
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.ibb.co.com/YD5z24C/download.jpg",
+    "category": "laptop",
+    "price": 92,
+    "description": "Dell XPS 13 offers high performance in a compact design, perfect for professionals.",
+    "Specification": [
+      "Intel Core i7",
+      "16GB RAM",
+      "1TB SSD",
+      "13.4 inch 4K Display",
+      "Windows 11"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 6,
+    "product_title": "Apple AirPods Pro (2nd Generation)",
+    "product_image": "https://i.ibb.co.com/VTpNZxc/download.jpg",
+    "category": "accessories",
+    "price": 66,
+    "description": "The second generation of AirPods Pro features Active Noise Cancellation, Transparency mode, and a customizable fit for superior sound quality.",
+    "Specification": [
+      "Battery Life: Up to 6 hours (listening time)",
+      "Connectivity: Bluetooth 5.0",
+      "Water Resistance: IPX4"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 7,
+    "product_title": "Jabra Elite 75t",
+    "product_image": "https://i.ibb.co.com/525wRMr/images.jpg",
+    "category": "accessories",
+    "price": 79,
+    "description": "Compact earbuds with a secure fit, great sound quality, and up to 7.5 hours of battery life on a single charge.",
+    "Specification": [
+      "Battery Life: Up to 7.5 hours (listening time)",
+      "Connectivity: Bluetooth 5.0",
+      "Water Resistance: IP55"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 8,
+    "product_title": "HP Pavilion x360",
+    "product_image": "https://i.ibb.co.com/JsDRcKY/images.jpg",
+    "category": "laptop",
+    "price": 74,
+    "description": "HP Pavilion x360 is a versatile 2-in-1 laptop with a touchscreen display.",
+    "Specification": [
+      "Intel Core i5",
+      "8GB RAM",
+      "256GB SSD",
+      "14 inch Full HD Touchscreen",
+      "Windows 11"
+    ],
+    "availability": false,
+    "rating": 4.3
+  },
+  {
+    "product_id": 9,
+    "product_title": "Anker PowerPort III Nano",
+    "product_image": "https://i.ibb.co.com/X3DTdnn/Anker-20-W-Power-Port-III-Nano-IQ-3-0-USB-C-Charger-5001.jpg",
+    "category": "Chargers",
+    "price": 87,
+    "description": "Compact and powerful wall charger that delivers high-speed charging for your devices with PowerIQ technology.",
+    "Specification": [
+      "Output: 20W",
+      "Port: USB-C",
+      "Size: 1.3 x 1.3 x 2.6 inches",
+      "Compatibility: Works with most smartphones and tablets"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+
+  {
+    "product_id": 10,
+    "product_title": "RAVPower 65W PD 3.0 Wall Charger",
+    "product_image": "https://i.ibb.co.com/VMBBSrC/download.jpg",
+    "category": "chargers",
+    "price": 77,
+    "description": "High-speed charging for laptops, tablets, and smartphones with multiple safety features.",
+    "Specification": [
+      "Output: 65W",
+      "Port: USB-C",
+      "Size: 3.0 x 2.5 x 1.0 inches",
+      "Compatibility: Works with all PD 3.0 devices"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 11,
+    "product_title": "Sony WH-1000XM5",
+    "product_image": "https://i.ibb.co.com/MfyMbmz/images.jpg",
+    "category": "accessories",
+    "price": 90,
+    "description": "Industry-leading noise cancellation with adaptive sound control, offering premium sound quality and long battery life.",
+    "Specification": [
+      "Battery Life: Up to 30 hours",
+      "Connectivity: Bluetooth 5.2",
+      "Weight: 250g"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+
+  {
+    "product_id": 12,
+    "product_title": "Apple iPhone 14",
+    "product_image": "https://i.ibb.co.com/XVfHL0M/images.jpg",
+    "category": "phones",
+    "price": 60,
+    "description": "The iPhone 14 comes with a powerful A15 Bionic chip, excellent camera capabilities, and enhanced battery life.",
+    "Specification": [
+      "Display: 6.1-inch Super Retina XDR",
+      "Processor: A15 Bionic",
+      "Battery: Up to 20 hours of talk time",
+      "Camera: Dual 12MP (wide + ultra-wide), 12MP front"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+
+  {
+    "product_id": 13,
+    "product_title": "OnePlus 11",
+    "product_image": "https://i.ibb.co.com/3hJPjDr/download.jpg",
+    "category": "phones",
+    "price": 70,
+    "description": "The OnePlus 11 features a sleek design, high-performance specifications, and an impressive battery life.",
+    "Specification": [
+      "Display: 6.7-inch QHD+ AMOLED",
+      "Processor: Snapdragon 8 Gen 2",
+      "Battery: 5,000mAh",
+      "Camera: Triple rear (50MP + 48MP + 32MP), 16MP front"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+
+  {
+    "product_id": 14,
     "product_title": "ASUS ROG Zephyrus G14",
     "product_image": "https://i.ibb.co.com/8MNLqnH/download.jpg",
     "category": "laptop",
-    "price": 1499.99,
+    "price": 51,
     "description": "ASUS ROG Zephyrus G14 is a gaming laptop with powerful hardware and stunning visuals.",
     "Specification": [
       "AMD Ryzen 9",
@@ -85,56 +231,27 @@
     "rating": 4.9
   },
   {
-    "product_id": 6,
-    "product_title": "Jabra Elite 75t",
-    "product_image": "https://i.ibb.co.com/525wRMr/images.jpg",
-    "category": "accessories",
-    "price": 179.99,
-    "description": "Compact earbuds with a secure fit, great sound quality, and up to 7.5 hours of battery life on a single charge.",
+    "product_id": 15,
+    "product_title": "ROMOSS 30000mAh Power Bank",
+    "product_image": "https://i.ibb.co.com/cQnhnyN/images.png",
+    "category": "power-banks",
+    "price": 86,
+    "description": "Massive capacity power bank ideal for charging laptops and multiple devices.",
     "Specification": [
-      "Battery Life: Up to 7.5 hours (listening time)",
-      "Connectivity: Bluetooth 5.0",
-      "Water Resistance: IP55"
+      "Capacity: 30,000mAh",
+      "Ports: 3 x USB-A, 1 x USB-C",
+      "Size: 6.3 x 3.1 x 0.9 inches",
+      "Weight: 23 oz"
     ],
     "availability": true,
-    "rating": 4.6
+    "rating": 4.5
   },
   {
-    "product_id": 7,
-    "product_title": "Apple AirPods Pro (2nd Generation)",
-    "product_image": "https://i.ibb.co.com/VTpNZxc/download.jpg",
-    "category": "accessories",
-    "price": 249.0,
-    "description": "The second generation of AirPods Pro features Active Noise Cancellation, Transparency mode, and a customizable fit for superior sound quality.",
-    "Specification": [
-      "Battery Life: Up to 6 hours (listening time)",
-      "Connectivity: Bluetooth 5.0",
-      "Water Resistance: IPX4"
-    ],
-    "availability": true,
-    "rating": 4.8
-  },
-  {
-    "product_id": 8,
-    "product_title": "Sony WH-1000XM5",
-    "product_image": "https://i.ibb.co.com/MfyMbmz/images.jpg",
-    "category": "accessories",
-    "price": 399.99,
-    "description": "Industry-leading noise cancellation with adaptive sound control, offering premium sound quality and long battery life.",
-    "Specification": [
-      "Battery Life: Up to 30 hours",
-      "Connectivity: Bluetooth 5.2",
-      "Weight: 250g"
-    ],
-    "availability": true,
-    "rating": 4.9
-  },
-  {
-    "product_id": 9,
+    "product_id": 16,
     "product_title": "Samsung Galaxy S23",
     "product_image": "https://i.ibb.co.com/xDQNPgT/download.jpg",
     "category": "phones",
-    "price": 799.99,
+    "price": 79,
     "description": "The Samsung Galaxy S23 features a stunning display, powerful performance, and an impressive camera system.",
     "Specification": [
       "Display: 6.1-inch FHD+ Dynamic AMOLED 2X",
@@ -146,75 +263,11 @@
     "rating": 4.7
   },
   {
-    "product_id": 10,
-    "product_title": "Apple iPhone 14",
-    "product_image": "https://i.ibb.co.com/XVfHL0M/images.jpg",
-    "category": "phones",
-    "price": 999.0,
-    "description": "The iPhone 14 comes with a powerful A15 Bionic chip, excellent camera capabilities, and enhanced battery life.",
-    "Specification": [
-      "Display: 6.1-inch Super Retina XDR",
-      "Processor: A15 Bionic",
-      "Battery: Up to 20 hours of talk time",
-      "Camera: Dual 12MP (wide + ultra-wide), 12MP front"
-    ],
-    "availability": true,
-    "rating": 4.8
-  },
-  {
-    "product_id": 11,
-    "product_title": "Google Pixel 7",
-    "product_image": "https://i.ibb.co.com/kBStjCj/download.jpg",
-    "category": "phones",
-    "price": 599.0,
-    "description": "The Google Pixel 7 delivers a pure Android experience with outstanding camera features and software support.",
-    "Specification": [
-      "Display: 6.3-inch FHD+ OLED",
-      "Processor: Google Tensor G2",
-      "Battery: 4,355mAh",
-      "Camera: Dual rear (50MP + 12MP), 10.8MP front"
-    ],
-    "availability": true,
-    "rating": 4.6
-  },
-  {
-    "product_id": 12,
-    "product_title": "OnePlus 11",
-    "product_image": "https://i.ibb.co.com/3hJPjDr/download.jpg",
-    "category": "phones",
-    "price": 749.99,
-    "description": "The OnePlus 11 features a sleek design, high-performance specifications, and an impressive battery life.",
-    "Specification": [
-      "Display: 6.7-inch QHD+ AMOLED",
-      "Processor: Snapdragon 8 Gen 2",
-      "Battery: 5,000mAh",
-      "Camera: Triple rear (50MP + 48MP + 32MP), 16MP front"
-    ],
-    "availability": true,
-    "rating": 4.5
-  },
-  {
-    "product_id": 13,
-    "product_title": "Anker PowerPort III Nano",
-    "product_image": "https://i.ibb.co.com/X3DTdnn/Anker-20-W-Power-Port-III-Nano-IQ-3-0-USB-C-Charger-5001.jpg",
-    "category": "Chargers",
-    "price": 19.99,
-    "description": "Compact and powerful wall charger that delivers high-speed charging for your devices with PowerIQ technology.",
-    "Specification": [
-      "Output: 20W",
-      "Port: USB-C",
-      "Size: 1.3 x 1.3 x 2.6 inches",
-      "Compatibility: Works with most smartphones and tablets"
-    ],
-    "availability": true,
-    "rating": 4.8
-  },
-  {
-    "product_id": 14,
+    "product_id": 17,
     "product_title": "Apple 20W USB-C Power Adapter",
     "product_image": "https://i.ibb.co.com/KK32DxQ/download.jpg",
     "category": "Chargers",
-    "price": 19.0,
+    "price": 68,
     "description": "The Apple 20W USB-C Power Adapter is designed for fast charging your iPhone and iPad.",
     "Specification": [
       "Output: 20W",
@@ -226,43 +279,11 @@
     "rating": 4.7
   },
   {
-    "product_id": 15,
-    "product_title": "Belkin Boost Charge 30W USB-C Charger",
-    "product_image": "https://i.ibb.co.com/ZTR64BY/download.jpg",
-    "category": "Chargers",
-    "price": 24.99,
-    "description": "Fast charging for your smartphone, tablet, and other devices with a sleek and compact design.",
-    "Specification": [
-      "Output: 30W",
-      "Port: USB-C",
-      "Size: 2.2 x 2.2 x 1.1 inches",
-      "Compatibility: USB-C devices"
-    ],
-    "availability": true,
-    "rating": 4.6
-  },
-  {
-    "product_id": 16,
-    "product_title": "RAVPower 65W PD 3.0 Wall Charger",
-    "product_image": "https://i.ibb.co.com/VMBBSrC/download.jpg",
-    "category": "Wall Charger",
-    "price": 29.99,
-    "description": "High-speed charging for laptops, tablets, and smartphones with multiple safety features.",
-    "Specification": [
-      "Output: 65W",
-      "Port: USB-C",
-      "Size: 3.0 x 2.5 x 1.0 inches",
-      "Compatibility: Works with all PD 3.0 devices"
-    ],
-    "availability": true,
-    "rating": 4.7
-  },
-  {
-    "product_id": 17,
+    "product_id": 18,
     "product_title": "Anker PowerCore 10000mAh Portable Charger",
     "product_image": "https://i.ibb.co.com/0m8JBW4/download.jpg",
     "category": "power-banks",
-    "price": 29.99,
+    "price": 82,
     "description": "Ultra-compact power bank with high-speed charging technology, perfect for on-the-go power.",
     "Specification": [
       "Capacity: 10,000mAh",
@@ -274,11 +295,11 @@
     "rating": 4.8
   },
   {
-    "product_id": 18,
+    "product_id": 19,
     "product_title": "RAVPower 20000mAh Power Bank",
     "product_image": "https://i.ibb.co.com/mv7RJgr/download.jpg",
     "category": "power-banks",
-    "price": 39.99,
+    "price": 92,
     "description": "High-capacity power bank with dual USB ports for charging multiple devices simultaneously.",
     "Specification": [
       "Capacity: 20,000mAh",
@@ -289,36 +310,21 @@
     "availability": true,
     "rating": 4.7
   },
+
   {
-    "product_id": 19,
-    "product_title": "Aukey 10000mAh Power Bank with Quick Charge",
-    "product_image": "https://i.ibb.co.com/rvJZLbV/images.jpg",
-    "category": "power-banks",
-    "price": 25.99,
-    "description": "Compact power bank featuring Quick Charge technology for fast charging of compatible devices.",
+    "product_id": 20,
+    "product_title": "Belkin Boost Charge 30W USB-C Charger",
+    "product_image": "https://i.ibb.co.com/ZTR64BY/download.jpg",
+    "category": "Chargers",
+    "price": 97,
+    "description": "Fast charging for your smartphone, tablet, and other devices with a sleek and compact design.",
     "Specification": [
-      "Capacity: 10,000mAh",
-      "Ports: 1 x USB-A (Quick Charge), 1 x USB-C",
-      "Size: 5.4 x 2.7 x 0.5 inches",
-      "Weight: 7.2 oz"
+      "Output: 30W",
+      "Port: USB-C",
+      "Size: 2.2 x 2.2 x 1.1 inches",
+      "Compatibility: USB-C devices"
     ],
     "availability": true,
     "rating": 4.6
-  },
-  {
-    "product_id": 20,
-    "product_title": "ROMOSS 30000mAh Power Bank",
-    "product_image": "https://i.ibb.co.com/cQnhnyN/images.png",
-    "category": "power-banks",
-    "price": 49.99,
-    "description": "Massive capacity power bank ideal for charging laptops and multiple devices.",
-    "Specification": [
-      "Capacity: 30,000mAh",
-      "Ports: 3 x USB-A, 1 x USB-C",
-      "Size: 6.3 x 3.1 x 0.9 inches",
-      "Weight: 23 oz"
-    ],
-    "availability": true,
-    "rating": 4.5
   }
 ]

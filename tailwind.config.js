@@ -8,6 +8,9 @@ export default {
     extend: {
       colors: {
         primary: "#9538E2",
+      },
+      backgroundImage: {
+        banner: `url('./assets/banner.jpg')`, 
       }
     },
   },
